@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title: string = 'Task Tracker';
+  version: string = '0.0.1';
 }
