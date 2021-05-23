@@ -10,6 +10,8 @@
   `ng generate component components/header`
 - icons used:
   [Angular Fontawesome](https://github.com/FortAwesome/angular-fontawesome)
+- create a service:
+  `ng generate service services/task`
 
 #### reference video:
 
