@@ -8,6 +8,8 @@
   `ng new firstProjectAngular`
 - create component (in a folder component):
   `ng generate component components/header`
+- icons used:
+  [Angular Fontawesome](https://github.com/FortAwesome/angular-fontawesome)
 
 #### reference video:
 
