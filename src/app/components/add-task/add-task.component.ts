@@ -42,5 +42,6 @@ export class AddTaskComponent implements OnInit {
     this.text = '';
     this.day = '';
     this.reminder = false;
+    this.uiService.toggleAddTask();
   }
 }
