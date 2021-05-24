@@ -1,4 +1,6 @@
-<form class="add-form" (ngSubmit)="onSubmit()">
+<form *ngIf="showAddTask" class="add-form" (ngSubmit)="onSubmit()">
+  <!-- maneira menos elegante de fazer aparecer ou não o componente -->
+  <!--{{[ngStyle]="{ display: showAddTask ? 'block' : 'none' }"}}-->
   <div class="form-control">
     <label for="text">Task</label>
     <input

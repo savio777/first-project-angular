@@ -18,6 +18,6 @@ export class ButtonComponent implements OnInit {
   ngOnInit(): void {}
 
   onClick(): void {
-    this.btnClick.emit('~> test emit');
+    this.btnClick.emit();
   }
 }
