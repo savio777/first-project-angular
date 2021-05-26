@@ -25,6 +25,7 @@
 - [x] Make CRUD of the Tasks
 - [x] Manage state of ui of the Form
 - [x] Router
+- [ ] State with Scope Global
 
 #### prints:
 
