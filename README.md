@@ -24,7 +24,7 @@
 - [x] Sharing events between parent and child
 - [x] Make CRUD of the Tasks
 - [x] Manage state of ui of the Form
-- [ ] Router
+- [x] Router
 
 #### prints:
 
