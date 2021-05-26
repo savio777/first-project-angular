@@ -28,7 +28,10 @@
 
 #### prints:
 
-![Captura de Tela 2021-05-24 às 01 06 38](https://user-images.githubusercontent.com/35678887/119295122-6be9cf00-bc2c-11eb-95ac-95030dcf53fb.png)
+![Captura de Tela 2021-05-26 às 02 13 13](https://user-images.githubusercontent.com/35678887/119606611-480fc000-bdc9-11eb-9e92-679f0fcdd00a.png)
+![Captura de Tela 2021-05-26 às 02 13 37](https://user-images.githubusercontent.com/35678887/119606623-4ba34700-bdc9-11eb-90fd-1d9e007ba32f.png)
+![Captura de Tela 2021-05-26 às 02 22 03](https://user-images.githubusercontent.com/35678887/119606631-4e05a100-bdc9-11eb-82ae-fb3cf1785239.png)
+
 
 #### reference video:
 
